@@ -1,5 +1,4 @@
-# Drowsiness-Detection-System
-This project implements a real-time Driver Drowsiness Detection System to enhance road safety by preventing accidents caused by drowsy driving. Using a webcam, the system monitors the driver’s eye status and triggers an alarm if drowsiness is detected.
+
 # Driver Drowsiness Detection System
 
 This repository contains the code for a Driver Drowsiness Detection System that utilizes OpenCV and a Convolutional Neural Network (CNN) to monitor driver eye status and alert them if drowsiness is detected.
